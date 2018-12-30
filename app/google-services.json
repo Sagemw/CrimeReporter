@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "796787598474",
+    "firebase_url": "https://crimereporter-4454b.firebaseio.com",
+    "project_id": "crimereporter-4454b",
+    "storage_bucket": "crimereporter-4454b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796787598474:android:181f0af251d52bd5",
+        "android_client_info": {
+          "package_name": "com.example.iduma.tree_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796787598474-hif9sc3t3f62p91t5jcmlvahsbpnvk3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iduma.tree_tracking",
+            "certificate_hash": "a1351f38f2dc839a2133a9dcb7bc80415ff485cc"
+          }
+        },
+        {
+          "client_id": "796787598474-0j2qrjcs9rpe4f6bmul5kcq9e8bddsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4RQE1aR_5kRd1gWsV_aFPKsvowqenqso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796787598474-0j2qrjcs9rpe4f6bmul5kcq9e8bddsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796787598474:android:e4f1709bfe0436fa",
+        "android_client_info": {
+          "package_name": "com.example.sammy.electioneer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796787598474-25lcqloi371utoalmsmjjknecrbakv2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sammy.electioneer",
+            "certificate_hash": "a1351f38f2dc839a2133a9dcb7bc80415ff485cc"
+          }
+        },
+        {
+          "client_id": "796787598474-0j2qrjcs9rpe4f6bmul5kcq9e8bddsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4RQE1aR_5kRd1gWsV_aFPKsvowqenqso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796787598474-0j2qrjcs9rpe4f6bmul5kcq9e8bddsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
